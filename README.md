@@ -50,6 +50,7 @@ Once you have finished those two steps, typing `command -v nvm` in the terminal 
 
 Type `nvm install --lts` in the terminal. Once the installation is done, you should be able to type `node --version` and see `v18.13.0` and `nvm --version` and see `0.39.3`. Once that is true, you will be able to continue in the lab. If you are working on another system, you might need to do something slightly different as described here: [instructions for installing and updating nvm](https://github.com/nvm-sh/nvm#install--update-script).
 
+
 ## Running your project
 
 The first time you run your Angular project, you will need to run `npm install` so that all the dependencies managed by npm will be installed. Once you have successfully run `npm install`, in order to serve up the project, you will type
